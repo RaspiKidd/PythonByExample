@@ -16,4 +16,4 @@ else:
     newWord = word + "way"
 
 
-print(newWord)
+print(newWord.lower())
