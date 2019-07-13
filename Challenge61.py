@@ -1,0 +1,12 @@
+# Python By Example Book
+# Challenge 061 - Draw a triangle
+
+import turtle
+
+turtle.shape ("turtle")
+
+for i in range (0,3):
+    turtle.forward (100)
+    turtle.left (120)
+
+turtle.exitonclick ()
